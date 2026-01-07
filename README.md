@@ -27,4 +27,5 @@ Since the dataset was limited, I avoided using standard pre-trained classifiers 
     - **Temporal Smoothing:** Applied a Gaussian rolling window to enforce temporal consistency and reduce false positives from camera noise.
 
 ## 🛠️ Usage
-This solution is provided as a Jupyter Notebook. To reproduce the results, simply open `pixelplay-baseline.ipynb` in Kaggle or Google Colab (with GPU enabled) and run.+
+This solution is provided as a Jupyter Notebook. To reproduce the results, simply open `pixelplay-baseline.ipynb` in Kaggle or Google Colab (with GPU enabled) and run.
+## Note: If GitHub fails to render the notebook, please view it via nbviewer.
